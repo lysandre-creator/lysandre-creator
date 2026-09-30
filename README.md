@@ -17,7 +17,7 @@ Tweet sentiment classification benchmark: frozen BERT embeddings feeding 8 diffe
 🧩 **[Model-Checking](https://github.com/lysandre-creator/Model_Checking)**
 From-scratch LTL model checker in OCaml (Büchi automata, product automaton, lasso search), applied to the wolf-goat-cabbage puzzle.
 
-🖼️ **[seam-carving-c](https://github.com/lysandre-creator/Seam-Carving)**
+🖼️ **[Seam-Carving](https://github.com/lysandre-creator/Seam-Carving)**
 Content-aware image resizing implemented from scratch in C, using gradient energy maps and dynamic programming.
 
 ---
