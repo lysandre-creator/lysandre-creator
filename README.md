@@ -8,13 +8,13 @@ Currently on a gap year between my 2nd and 3rd year of engineering school (M1-M2
 
 ### A few projects
 
-🛰️ **[kalman-slam-drone](https://github.com/lysandre-creator/Kalman-filter-SLAM)**
+🛰️ **[Kalman-filter-SLAM](https://github.com/lysandre-creator/Kalman-filter-SLAM)**
 2D Kalman filter SLAM for a drone in MATLAB — from full landmark observation to partial/unordered observation with nearest-neighbor data association, validated with a custom ground-truth simulator.
 
-🐦 **[tweet-sentiment-bert](https://github.com/lysandre-creator/Tweet-Sentiment-Classification)**
+🐦 **[Tweet-Sentiment-Classification](https://github.com/lysandre-creator/Tweet-Sentiment-Classification)**
 Tweet sentiment classification benchmark: frozen BERT embeddings feeding 8 different models (SVM, Logistic Regression, MLP, Random Forest, KNN, Naive Bayes, K-Means, zero-shot LLM) — comparing where the real gains come from.
 
-🧩 **[ltl-model-checking-puzzle](https://github.com/lysandre-creator/Model_Checking)**
+🧩 **[Model-Checking](https://github.com/lysandre-creator/Model_Checking)**
 From-scratch LTL model checker in OCaml (Büchi automata, product automaton, lasso search), applied to the wolf-goat-cabbage puzzle.
 
 🖼️ **[seam-carving-c](https://github.com/lysandre-creator/Seam-Carving)**
