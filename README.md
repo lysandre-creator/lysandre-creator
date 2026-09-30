@@ -22,4 +22,4 @@ Content-aware image resizing implemented from scratch in C, using gradient energ
 
 ---
 
-📫 Feel free to reach out !
+📫 lysandre.renault@ensta-paris.fr - Feel free to reach out !
