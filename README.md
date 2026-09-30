@@ -14,7 +14,7 @@ Currently on a gap year between my 2nd and 3rd year of engineering school (M1-M2
 🐦 **[Tweet-Sentiment-Classification](https://github.com/lysandre-creator/Tweet-Sentiment-Classification)**
 Tweet sentiment classification benchmark: frozen BERT embeddings feeding 8 different models (SVM, Logistic Regression, MLP, Random Forest, KNN, Naive Bayes, K-Means, zero-shot LLM) — comparing where the real gains come from.
 
-🧩 **[Model-Checking](https://github.com/lysandre-creator/Model_Checking)**
+🧩 **[Model-Checking](https://github.com/lysandre-creator/Model-Checking)**
 From-scratch LTL model checker in OCaml (Büchi automata, product automaton, lasso search), applied to the wolf-goat-cabbage puzzle.
 
 🖼️ **[Seam-Carving](https://github.com/lysandre-creator/Seam-Carving)**
