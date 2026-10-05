@@ -1,6 +1,6 @@
 ### Hi, I'm Lysandre Renault 👋
 
-Computer Vision Research Intern at PRISME Laboratory and M.Sc-level Student at ENSTA Paris, IP Paris
+Computer Vision Research Intern at PRISME Laboratory and M.Sc student at ENSTA Paris, IP Paris
 
 Currently on a gap year between my 2nd and 3rd year of engineering school (M1-M2 equivalent), working on Computer Vision applied to Robotics and Autonomous Systems
 
